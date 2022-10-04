@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#9C27B0</item>
+        <!-- Status Bar color -->
+        <!-- <item name="colorPrimaryDark">#7B1FA2</item> -->
+        <!-- Details color -->
+        <!-- <item name="colorAccent">#9C27B0</item> -->
+        <item name="android:windowBackground">@drawable/background_splash</item>
+    </style>
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:windowBackground">@drawable/background_splash</item>
+    </style>
+</resources>

@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "894165915527",
+    "firebase_url": "https://owlnews-6bc0d.firebaseio.com",
+    "project_id": "owlnews-6bc0d",
+    "storage_bucket": "owlnews-6bc0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894165915527:android:27360278c0d7fb18",
+        "android_client_info": {
+          "package_name": "com.imba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894165915527-4t0mmgth0r93ukkmji3kt1bbkr7ktdok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imba",
+            "certificate_hash": "f6929650043fda3da6dcaf2a466b3beb5d23b339"
+          }
+        },
+        {
+          "client_id": "894165915527-khvd1lna8jaqf4p6k9lu468f56pf6312.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "894165915527-ok06e5f325tmspcfqo7f8pp2tih7ek17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh_WWFJohIntKPBiVBuJ1fr6pp0YhLOkY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894165915527-khvd1lna8jaqf4p6k9lu468f56pf6312.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
